@@ -1,0 +1,16 @@
+/Users/muhammadyasin/personal/first_godot_gaming/.mono/temp/obj/Debug/First Godot Gamin.csprojAssemblyReference.cache
+/Users/muhammadyasin/personal/first_godot_gaming/.mono/temp/obj/Debug/First Godot Gamin.AssemblyInfoInputs.cache
+/Users/muhammadyasin/personal/first_godot_gaming/.mono/temp/obj/Debug/First Godot Gamin.AssemblyInfo.cs
+/Users/muhammadyasin/personal/first_godot_gaming/.mono/temp/obj/Debug/First Godot Gamin.csproj.CoreCompileInputs.cache
+/Users/muhammadyasin/personal/first_godot_gaming/.mono/temp/bin/Debug/First Godot Gamin.dll
+/Users/muhammadyasin/personal/first_godot_gaming/.mono/temp/bin/Debug/First Godot Gamin.pdb
+/Users/muhammadyasin/personal/first_godot_gaming/.mono/temp/obj/Debug/First Godot Gamin.dll
+/Users/muhammadyasin/personal/first_godot_gaming/.mono/temp/obj/Debug/First Godot Gamin.pdb
+/Users/muhammadyasin/personal/Godot/first_godot_gaming/.mono/temp/bin/Debug/First Godot Gamin.dll
+/Users/muhammadyasin/personal/Godot/first_godot_gaming/.mono/temp/bin/Debug/First Godot Gamin.pdb
+/Users/muhammadyasin/personal/Godot/first_godot_gaming/.mono/temp/obj/Debug/First Godot Gamin.csprojAssemblyReference.cache
+/Users/muhammadyasin/personal/Godot/first_godot_gaming/.mono/temp/obj/Debug/First Godot Gamin.AssemblyInfoInputs.cache
+/Users/muhammadyasin/personal/Godot/first_godot_gaming/.mono/temp/obj/Debug/First Godot Gamin.AssemblyInfo.cs
+/Users/muhammadyasin/personal/Godot/first_godot_gaming/.mono/temp/obj/Debug/First Godot Gamin.csproj.CoreCompileInputs.cache
+/Users/muhammadyasin/personal/Godot/first_godot_gaming/.mono/temp/obj/Debug/First Godot Gamin.dll
+/Users/muhammadyasin/personal/Godot/first_godot_gaming/.mono/temp/obj/Debug/First Godot Gamin.pdb
